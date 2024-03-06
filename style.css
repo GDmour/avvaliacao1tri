@@ -2,6 +2,9 @@
     --cor--fundo: #0F0F0F;
     --cor--fontes: #FFFFFF;
 }
+body{
+    background-color: red;
+}
 .cabecalho{
     background-color: black;
     color: #0F0F0F;
