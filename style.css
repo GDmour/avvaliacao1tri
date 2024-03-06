@@ -6,7 +6,7 @@ body{
     background-color: rgb(138, 222, 255);
 }
 .cabecalho{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     color: #0F0F0F;
     display: flex;
     justify-content: space-around;
