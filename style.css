@@ -1,9 +1,11 @@
 :root{
     --cor--fundo: #0F0F0F;
     --cor--fontes: #FFFFFF;
+    --cor--fundo--linear: #E51111;
+    --cor--fundo--linear: #0F0F0F;
 }
 .cabecalho{
-    background-color: rgb(255, 255, 255);
+    background-color: #E51111;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -21,5 +23,7 @@ font-size: 24px;
   width: 20% ;  
 }
 .escola{
-  background-image: -o-linear-gradient(#E51111  #0F0F0F);  
+  background-image: -o-linear-gradient(#E51111  #0F0F0F);
+  color:var(--cor--fontes);
+  display: flex;  
 }
