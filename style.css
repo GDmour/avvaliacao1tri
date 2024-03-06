@@ -2,9 +2,6 @@
     --cor--fundo: #0F0F0F;
     --cor--fontes: #FFFFFF;
 }
-body{
-    background-color: rgb(138, 222, 255);
-}
 .cabecalho{
     background-color: rgb(255, 255, 255);
     color: #0F0F0F;
@@ -20,4 +17,10 @@ width: 10%;
 display: inline-block;
 margin: 0 16px;
 font-size: 24px;
+}
+.escola-imagem{
+  width: 20% ;  
+}
+.escola{
+  background-image: -o-linear-gradient(#E51111  #0F0F0F);  
 }
