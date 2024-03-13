@@ -28,7 +28,7 @@ font-size: 24px;
   width: 20% ;  
 }
 .escola{
-  background-image: -o-linear-gradient(#E51111  #0F0F0F);
+  background: -o-linear-gradient(#E51111  #0F0F0F);
   color:var(--cor-fontes);
   display: flex;
   align-items: center;
