@@ -36,11 +36,7 @@ text-align: center;
   width: 20% ;  
 }
 .escola{
-<<<<<<< HEAD
-  background-image: -o-linear-gradient(#E51111 #0F0F0F);
-=======
-  background-image: -o-linear-gradient(#E51111  #0F0F0F);
->>>>>>> c50002a4833c75575827595c669f59d69580370d
+  background-image: -o-linear-gradient(#e51111 #0F0F0F);
   color:var(--cor-fontes);
   display: flex;
   align-items: center;
