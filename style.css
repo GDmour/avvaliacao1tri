@@ -9,7 +9,7 @@
     --cor-fundo-linear: #0F0F0F;
 }
 .cabecalho{
-    background-color: var(--cor--fundo);
+    background-color: var(--cor-fundo);
     color: var(--cor-fontes);
     display: flex;
     justify-content: space-around;
@@ -36,7 +36,11 @@ text-align: center;
   width: 20% ;  
 }
 .escola{
-  background-image:--o-linear-gradient(#E51111  #0F0F0F);
+<<<<<<< HEAD
+  background-image: -o-linear-gradient(#E51111 #0F0F0F);
+=======
+  background-image: -o-linear-gradient(#E51111  #0F0F0F);
+>>>>>>> c50002a4833c75575827595c669f59d69580370d
   color:var(--cor-fontes);
   display: flex;
   align-items: center;
