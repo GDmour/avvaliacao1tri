@@ -23,6 +23,7 @@ width: 10%;
 display: inline-block;
 margin: 0 16px;
 font-size: 24px;
+align-items: center;
 }
 .escola-imagem{
   width: 20% ;  
