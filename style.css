@@ -5,7 +5,8 @@
     --cor--fundo--linear: #0F0F0F;
 }
 .cabecalho{
-    background-color: #E51111;
+    background-color: var(--cor--fundo);
+    color: var(--cor--fontes);
     display: flex;
     justify-content: space-around;
     align-items: center;
