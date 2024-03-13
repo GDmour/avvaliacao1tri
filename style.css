@@ -3,10 +3,10 @@
   padding: 0;
 }
 :root{
-    --cor--fundo: #0F0F0F;
-    --cor--fontes: #FFFFFF;
-    --cor--fundo--linear: #E51111;
-    --cor--fundo--linear: #0F0F0F;
+    --cor-fundo: #0F0F0F;
+    --cor-fontes: #FFFFFF;
+    --cor-fundo-linear: #E51111;
+    --cor-fundo-linear: #0F0F0F;
 }
 .cabecalho{
     background-color: var(--cor--fundo);
