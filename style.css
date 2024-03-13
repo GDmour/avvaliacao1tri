@@ -18,13 +18,14 @@
 }
 .imagem-cabecalho{
 width: 10%;
-align-items: left;
+
 }
 .item-lista-cabecalho{
 display: inline-block;
 margin: 0 16px;
 font-size: 24px;
-align-items: center;
+text-align: center;
+
 }
 .escola-imagem{
   width: 20% ;  
