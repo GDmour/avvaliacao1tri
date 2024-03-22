@@ -20,11 +20,11 @@
 width: 10%;
 
 }
-.lista-cabecalho{
-align-items: center;
-text-align: center;
+
+
  
-}
+
+
 .item-lista-cabecalho{
 display: inline-block;
 margin: 0 16px;
@@ -53,5 +53,5 @@ text-align: center;
 }
 .estudante-imagem{
 width: 15%;
-align-items: center;
+
 }
