@@ -37,7 +37,7 @@ text-align: center;
 }
 .escola{
   background-image: linear-gradient(#E51111, #0F0F0F );
-  color:var(--cor-fontes);
+  color:var(--cor-fontes);<h3 class="estudante-nome">luiz</h3>
   display: flex;
   align-items: center;
   padding: 24px  0;  
@@ -47,4 +47,7 @@ text-align: center;
 }
 .escola-titulo{
   padding: 24px 0;
+}
+.estudantes-titulo{
+  text-align: center;
 }
