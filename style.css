@@ -1,10 +1,10 @@
 
 :root{
-  --cor--fundo:#2bc7e2;
+  --cor--fundo:#000000;
   --cor-fonte:#FFFFFF;
-  --cor-escola:#378dff;
-  --cor-estudantes:#2dbc2d;
-  --cor-rodape:#192cd4;
+  --cor-escola:#000000;
+  --cor-estudantes:#df0a0a;
+  --cor-rodape:#000000;
 
 }
 .cabecalho{
@@ -27,7 +27,7 @@
   width: 25%;
 }
 .escola{
-  background-image: linear-gradient(#07A126,#4EBFE9);
+  background-image: linear-gradient(#E51111,#0F0F0F);
   color: var(--cor-fonte);
   display: flex;
   align-items: center;
@@ -55,7 +55,7 @@
 .estudantes-todos{
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
-  background-image: linear-gradient(#15EBEB, #00F60A);
+  background-image: linear-gradient(#E51111, #0F0F0F));
 }
 .rodape{
   background-color: black;
