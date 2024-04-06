@@ -61,7 +61,7 @@
 .estudantes-tudo{
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
-  background-image: linear-gradient(#E51111,#0F0F0F);
+  background-color: #0F0F0F;
 }
 .rodape{
   background-color: black;
