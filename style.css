@@ -43,6 +43,9 @@
     text-align: center;
    
 }
+.nome-estudante{
+  margin-inline-end: auto;
+}
 .estudante-div{
   padding: 16px 0;
 }
