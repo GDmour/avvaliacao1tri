@@ -55,7 +55,7 @@
   padding: 4px 8px;
   height: 4px;
 }
-.estudantes-todos{
+.estudantes-tudo{
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
   background-image: linear-gradient(#E51111,#0F0F0F);
