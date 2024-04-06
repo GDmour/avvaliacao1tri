@@ -9,7 +9,7 @@
     --cor-fundo-linear: #0F0F0F;
 }
 .cabecalho{
-  background-color: var(--cor--fundo);
+  background-color: var(--cor-fundo);
   color: var(--cor-fonte);
   display: flex;
   justify-content: space-around;
